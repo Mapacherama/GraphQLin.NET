@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "as+gtAZyDKJlS3Vqj/23Yy1rA4TbsSyCJwSX28g9wyZBJDVjzibn2qWTayzzj0wC9Y2Ldv1HtS34I56Nb95Vuw==",
+  "dgSpecHash": "jgfxrO0AhZuii+SrjoDRowNyujxz9PrIxbLDw4eWQDCgdiLk6kI81RRPSrnTFMg57gkgMEVPDdB5WK9pRzGmQg==",
   "success": true,
-  "projectFilePath": "c:\\Stage\\Stage\\Stageopdracht\\GraphQL\\GraphQLin.NET\\CommanderGQL\\CommanderGQL.csproj",
+  "projectFilePath": "C:\\Stage\\Stage\\Stageopdracht\\GraphQL\\GraphQLin.NET\\CommanderGQL\\CommanderGQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jtesselaar\\.nuget\\packages\\graphql.server.ui.voyager\\5.0.2\\graphql.server.ui.voyager.5.0.2.nupkg.sha512",
     "C:\\Users\\jtesselaar\\.nuget\\packages\\greendonut\\12.0.1\\greendonut.12.0.1.nupkg.sha512",

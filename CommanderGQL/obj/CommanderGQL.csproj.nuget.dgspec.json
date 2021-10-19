@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Stage\\Stage\\Stageopdracht\\GraphQL\\GraphQLin.NET\\CommanderGQL\\CommanderGQL.csproj": {}
+    "C:\\Stage\\Stage\\Stageopdracht\\GraphQL\\GraphQLin.NET\\CommanderGQL\\CommanderGQL.csproj": {}
   },
   "projects": {
-    "c:\\Stage\\Stage\\Stageopdracht\\GraphQL\\GraphQLin.NET\\CommanderGQL\\CommanderGQL.csproj": {
+    "C:\\Stage\\Stage\\Stageopdracht\\GraphQL\\GraphQLin.NET\\CommanderGQL\\CommanderGQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Stage\\Stage\\Stageopdracht\\GraphQL\\GraphQLin.NET\\CommanderGQL\\CommanderGQL.csproj",
+        "projectUniqueName": "C:\\Stage\\Stage\\Stageopdracht\\GraphQL\\GraphQLin.NET\\CommanderGQL\\CommanderGQL.csproj",
         "projectName": "CommanderGQL",
-        "projectPath": "c:\\Stage\\Stage\\Stageopdracht\\GraphQL\\GraphQLin.NET\\CommanderGQL\\CommanderGQL.csproj",
+        "projectPath": "C:\\Stage\\Stage\\Stageopdracht\\GraphQL\\GraphQLin.NET\\CommanderGQL\\CommanderGQL.csproj",
         "packagesPath": "C:\\Users\\jtesselaar\\.nuget\\packages\\",
-        "outputPath": "c:\\Stage\\Stage\\Stageopdracht\\GraphQL\\GraphQLin.NET\\CommanderGQL\\obj\\",
+        "outputPath": "C:\\Stage\\Stage\\Stageopdracht\\GraphQL\\GraphQLin.NET\\CommanderGQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jtesselaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
